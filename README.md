@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ImAxolotlicekDev
+- 👀 I’m interested in Developing Minecraft server
+- 🌱 I’m currently learning Python and Website coding
+- 📫 You can reach me on [discord](https://discord.imaxolotlicek.eu)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am boy.
